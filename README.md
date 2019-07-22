@@ -1,4 +1,4 @@
-# Sprint-Challenge Applied Javascript - Lambda Times
+<!-- # Sprint-Challenge Applied Javascript - Lambda Times
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored the DOM and the concept of components. During this Sprint, you studied the DOM, DOM Events, and Components, as well as HTTP GET requests, and the axios library. In your challenge this week, you will demonstrate proficiency by creating an online Lambda newspaper called "Lambda Times."
 
@@ -20,7 +20,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 You are going to create a Lambda Newspaper. Your job is going to be to create the components that make up the newspaper's home page. You will do this at first with static data, then you will request data from a server to create dynamic components.
 
-In meeting the minimum viable product (MVP) specifications listed below, you should have a console full of correct responses to the problems given.
+In meeting the minimum viable product (MVP) specifications listed below, you should have a console full of correct responses to the problems given. -->
 
 ## Self-Study Questions
 
@@ -29,16 +29,21 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+   The DOM stands for "Document Object Mode" and is a place where we can utlize the HTML code and manipulate to change the page structure, styling and content
 
 2. What is an event?
+   And even is bascailly everything you can do within a webpage (a click, moving the mouse, scrolling the page, pressing a key on the keyboard)
 
 3. What is an event listener?
+   An event listener is basically a command that "listens" and "looks" for commands on what you want your website to say or do.
 
 4. Why would we convert a NodeList into an Array?
+   You would convert a node list into an array because a node list doesn’t have access to all of the array methods. The only method a nodelist can use is forEach so if you want to use the other ones like map or filter you would need to convert it into an array first
 
 5. What is a component?
+   A component is being able to use HTML, CSS and JS together to reuse in a website.
 
-### Git Set up
+<!-- ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
 * [ ] Clone the forked project into a directory on your machine
@@ -51,7 +56,7 @@ Your finished project must include all of the following requirements:
 
 * [ ] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled it. DO NOT add any code to the HTML file itself.
 
-* [ ] Following the instructions in the `Header/index.js` file, create the Header component. 
+* [ ] Following the instructions in the `Header/index.js` file, create the Header component.
 
 * [ ] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
 
@@ -67,4 +72,4 @@ Your stretch challenge is to write the functionality of a `Carousel` component. 
 
 * [ ] Create an 'infinite loop' carousel. In which as long as you click on an arrow, the array of images will loop over itself.
 
-* [ ] If you have finished the above, research `data attributes`. Implement data attributes within your tabs as well as your cards. Give the tabs functionality so that when they are clicked they filter the cards to only display the cards that contain that topic.
+* [ ] If you have finished the above, research `data attributes`. Implement data attributes within your tabs as well as your cards. Give the tabs functionality so that when they are clicked they filter the cards to only display the cards that contain that topic. -->
